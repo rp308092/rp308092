@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rp308092
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rushikesh Patil
+- 👀 I’m interested in DataBase Management 
+- 🌱 I’m currently learning SQL and Python
+- 💞️ I’m looking For Job opportunity 
+  
 
 <!---
 rp308092/rp308092 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
