@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushikesh Patil
-- 👀 I’m interested in DataBase Management 
+- 👀 I’m interested in Data Analyst 
 - 🌱 I’m currently learning SQL and Python
 - 💞️ I’m looking For Job opportunity 
   
